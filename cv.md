@@ -4,9 +4,7 @@
 * **Phone:** +375 29 566 55 55
 * **E-mail:** amdorofeychik@gmail.com
 * **GitHub:** [amdorofeychik](https://github.com/AMDorofeychik)
-* **Telegram:**
-* **LinkedIn:**
-* **Discord:**
+* **Discord:** Andrew D#8436
 --------
 ## About Me
 I'm ...
@@ -18,13 +16,21 @@ I'm ...
 + HCL Notes/Domino
 --------
 ## Code example
-
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+```
 --------
 ## Experience
 
 --------
 
 ## Education
-
+* **Belarusian State University of Transport** 
+* **Belarusian State Economic University** 
 --------
 ## Language
+* **Russian** - Native
+* **Belarussian** - Native
+* **English** - A2
