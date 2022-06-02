@@ -5,6 +5,7 @@
 * **E-mail:** amdorofeychik@gmail.com
 * **GitHub:** [amdorofeychik](https://github.com/AMDorofeychik)
 * **Discord:** Andrew D#8436
+
 --------
 ## About Me
 I'm ...
@@ -14,6 +15,7 @@ I'm ...
 + JavaScript (Basic)
 + Git, GitHub
 + HCL Notes/Domino
+
 --------
 ## Code example
 ```javascript
@@ -28,7 +30,8 @@ function multiply(a, b){
 
 ## Education
 * **Belarusian State University of Transport** 
-* **Belarusian State Economic University** 
+* **Belarusian State Economic University**
+
 --------
 ## Language
 * **Russian** - Native
