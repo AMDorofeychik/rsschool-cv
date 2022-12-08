@@ -9,3 +9,31 @@
 --------
 ## About Me
 I'm ...
+
+## Skills
++ HTML5, CSS3
++ JavaScript (Basic)
++ Git, GitHub
++ HCL Notes/Domino
+
+--------
+## Code example
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+```
+--------
+## Experience
+
+--------
+
+## Education
+* **Belarusian State University of Transport** 
+* **Belarusian State Economic University**
+
+--------
+## Language
+* **Russian** - Native
+* **Belarussian** - Native
+* **English** - A2
